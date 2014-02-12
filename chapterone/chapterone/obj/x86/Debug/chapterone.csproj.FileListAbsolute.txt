@@ -1,0 +1,5 @@
+C:\Users\eahscs\Documents\GitHub\Chapter-1-Problems\chapterone\chapterone\bin\Debug\chapterone.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-1-Problems\chapterone\chapterone\bin\Debug\chapterone.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter-1-Problems\chapterone\chapterone\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\Chapter-1-Problems\chapterone\chapterone\obj\x86\Debug\chapterone.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-1-Problems\chapterone\chapterone\obj\x86\Debug\chapterone.pdb
